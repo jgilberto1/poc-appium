@@ -6,7 +6,6 @@ Necessário instalar:
 -----------------------
 
 *	Ruby for MacOs: linguagem de programação utilizada nos testes.
-*	Chromedriver: Driver do navegador que será utilizado na automação. Disponível no site do <https://sites.google.com/a/chromium.org/chromedriver/downloads>.
 *	Visual studio Code: Editor de texto com funções úteis para escrever o código da automação de testes.
 * Android studio: instalação dos atributos do android, inclusive o virtual devices utilizados para emular.
 
